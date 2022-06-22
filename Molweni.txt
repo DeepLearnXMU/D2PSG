@@ -1,0 +1,16 @@
+qap = an answer to the question
+elaboration = provide more information about what was said ( for instance, first, second )
+acknowledgement = an understanding or acceptance of what was said ( ok, right, good, fine )
+clarification_question = an question to eliminate or prevent misunderstanding, confusion or ambiguity
+result = the effect of a cause ( so )
+comment = provide an opinion or evaluation of what was said
+q-elab = a follow-up question to get more information to answer a first question
+explanation = explain why, or give the cause of what happened ( because )
+contrast ( but, however, on the other hand, nevertheless, while )
+parallel ( too, also )
+alternation ( or )
+conditional ( if then )
+correction
+background
+narration
+continuation
